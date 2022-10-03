@@ -50,6 +50,10 @@ Your job is to fill in what is missing in the hpp file. And in your cpp file, yo
 
 To see an example of creating a class with multiple files, please see [this](https://github.com/Fviramontes8/UNMECE231Code/tree/main/Classes/IntList).
 
+## Name of the executable
+
+So that your code can be tested with GithubActions, the name of the executable should be `run_complex`
+
 ## More on multiplying and dividing complex number
 
 For adding and subtracting two complex numbers, you simply need to pair the real parts and the imaginary parts. For example:
